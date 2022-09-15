@@ -18,3 +18,4 @@ target/
 /.repository
 .flattened-pom.xml
 .classpath
+test-output/
